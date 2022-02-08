@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_images/1235348786387574784/EHFYcgX6_400x400.png)
+![](https://res.cloudinary.com/dnfecsurp/image/upload/v1644324174/random/download_ot3oue.png)
 
 # 20 JavaScript Web Projects
 
