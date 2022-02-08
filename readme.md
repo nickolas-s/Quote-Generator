@@ -1,4 +1,4 @@
-<center>![](https://pbs.twimg.com/profile_images/1235348786387574784/EHFYcgX6_400x400.png)</center>
+![](https://pbs.twimg.com/profile_images/1235348786387574784/EHFYcgX6_400x400.png)
 
 # 20 JavaScript Web Projects
 
